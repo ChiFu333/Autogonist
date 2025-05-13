@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67e8d00a032a234d9f61d61fbd8224e, type: 3}
+  m_Name: EnemyOpenMouth
+  m_EditorClassIdentifier: 
+  <framerate>k__BackingField: 6
+  <frames>k__BackingField:
+  - {fileID: 595682499, guid: 876f8450926da84409bbe5a4c2cdf3ee, type: 3}
+  - {fileID: 1051689957, guid: 876f8450926da84409bbe5a4c2cdf3ee, type: 3}
+  - {fileID: -534116614, guid: 876f8450926da84409bbe5a4c2cdf3ee, type: 3}
+  - {fileID: 1764427985, guid: 876f8450926da84409bbe5a4c2cdf3ee, type: 3}
+  - {fileID: 970007735, guid: 876f8450926da84409bbe5a4c2cdf3ee, type: 3}
+  <animationOffset>k__BackingField: {x: 0, y: 0}
